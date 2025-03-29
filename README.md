@@ -1,13 +1,13 @@
 # Leaky-Integrate-and-Fire-Model
 ## Overview
-The **Leaky Integrate-and-Fire (LIF) model** is a fundamental computational framework for simulating neuronal networks that receive **fluctuating input currents**,closely mimicking the dynamics of biological neurons. <br>
-This simulation captures essential spiking behavior and generates two key visualizations: <br>
+The **Leaky Integrate-and-Fire (LIF) model** is a fundamental computational framework used for simulating neuronal networks where the neurons receive **fluctuating input currents** and closely mimicking the dynamics of biological neurons. <br>
+ <br>
+![alt text](https://github.com/MrinmayiVerma/Leaky-Integrate-and-Fire-Model/blob/main/LIF_graph.png)
+The above simulation captures the essential spiking behavior of neurons and generates two key visualizations: <br>
 the **Membrane Potential Plot**, which illustrates voltage fluctuations over time, and<br>
 the **Raster Plot**, which represents the precise timing of neuronal spikes.<br>
-![alt text](https://github.com/[MrinmayiVerma]/[Leaky-Integrate-and-fire-Model]/blob/[branch]/image.jpg?raw=true)
-
 ## Installation & Dependencies
- the prerequisties of this project are:<br>
+ the prerequisites of this project are:<br>
  **numpy** – For numerical computations<br>
  **matplotlib** – For visualization<br>
 
