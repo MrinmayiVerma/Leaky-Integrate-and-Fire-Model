@@ -4,6 +4,7 @@ The **Leaky Integrate-and-Fire (LIF) model** is a fundamental computational fram
 This simulation captures essential spiking behavior and generates two key visualizations: <br>
 the **Membrane Potential Plot**, which illustrates voltage fluctuations over time, and<br>
 the **Raster Plot**, which represents the precise timing of neuronal spikes.<br>
+![alt text](https://github.com/[MrinmayiVerma]/[Leaky-Integrate-and-fire-Model]/blob/[branch]/image.jpg?raw=true)
 
 ## Installation & Dependencies
  the prerequisties of this project are:<br>
